@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418541934918",
+    "project_id": "money-plant-20030",
+    "storage_bucket": "money-plant-20030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418541934918:android:5dc9c40ad5e71ec473ad47",
+        "android_client_info": {
+          "package_name": "com.example.mr_plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDby6JkuOVuIHEDWu1hXPXkqT0-R18sZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
